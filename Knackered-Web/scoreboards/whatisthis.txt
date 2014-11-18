@@ -1,0 +1,1 @@
+This directory will be auto-filled with the backups of the scoreboard graph.
