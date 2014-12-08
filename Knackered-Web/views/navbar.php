@@ -19,7 +19,7 @@
                     if($_SESSION['is_admin']){
                         echo '<li><a href="teams.php">Teams</a></li>';
                         echo '<li><a href="services.php">Services</a></li>';
-                        echo '<li><a href="logins.php">Logins</a></li>';
+                        echo '<li><a href="servicelogins.php">Logins</a></li>';
                         echo '<li><a href="register.php">Web</a></li>';
                     }
                     echo '<li><a href="index.php?logout=true">Log Out</a></li>';
